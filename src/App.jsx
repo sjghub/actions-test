@@ -30,6 +30,9 @@ function App() {
         <p>
           new line2
         </p>
+        <p>
+          new line3
+        </p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
